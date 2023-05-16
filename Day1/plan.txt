@@ -1,0 +1,18 @@
+
+python basics
+
+data sourcing
+
+theory 
+
+models creation and testing
+
+statistics
+  - central tendency 
+  - probabilities
+  - correlation
+
+
+
+takeaway:
+ ml modelling: understand basics & categorize real world problems
